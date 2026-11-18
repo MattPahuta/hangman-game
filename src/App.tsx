@@ -1,11 +1,9 @@
-import './App.css'
-
 function App() {
 
   return (
     <>
-      <div className="">
-        <h1 className="">Hangman Game</h1>
+      <div className="max-w-7xl mx-auto">
+        <h1 className="text-3xl font-sans font-bold">Hangman Game</h1>
       </div>
     </>
   )
