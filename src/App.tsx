@@ -2,8 +2,8 @@ function App() {
 
   return (
     <>
-      <div className="max-w-7xl mx-auto">
-        <h1 className="text-3xl font-sans font-bold">Hangman Game</h1>
+      <div className="max-w-7xl min-h-screen mx-auto">
+        <h1 className="text-5xl">Hangman Game</h1>
       </div>
     </>
   )
